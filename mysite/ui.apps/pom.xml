@@ -114,13 +114,6 @@
 
         <dependency>
             <groupId>com.mysite</groupId>
-            <artifactId>mysite.ui.frontend</artifactId>
-            <version>${project.version}</version>
-            <type>zip</type>
-        </dependency>
-
-        <dependency>
-            <groupId>com.mysite</groupId>
             <artifactId>mysite.ui.apps.structure</artifactId>
             <version>${project.version}</version>
             <type>zip</type>
