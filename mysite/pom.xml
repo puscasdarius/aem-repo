@@ -29,7 +29,6 @@
     <modules>
         <module>all</module>
         <module>core</module>
-        <module>ui.frontend</module>
         <module>ui.apps</module>
         <module>ui.apps.structure</module>
         <module>ui.config</module>
@@ -57,6 +56,9 @@
         <aem.sdk.api>2022.3.6698.20220318T233218Z-220400</aem.sdk.api>
         <aemanalyser.version>1.4.2</aemanalyser.version>
         <componentGroupName>My Site</componentGroupName>
+
+        <sonar.organization>puscasdarius</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <build>
